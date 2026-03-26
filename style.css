@@ -5,21 +5,21 @@ body {
     margin: 0;
 }
 
-/* HEADER */
+
 header {
     background-color: #000;
     text-align: center;
     padding: 20px;
 }
 
-/* CONTAINER */
+
 .container {
     padding: 20px;
     max-width: 700px;
     margin: auto;
 }
 
-/* CARD STYLE */
+
 .card {
     background-color: #1a1a1a;
     padding: 15px;
@@ -27,14 +27,14 @@ header {
     border-radius: 10px;
 }
 
-/* IMAGE */
+
 .me {
     width: 130px;
     border-radius: 10px;
     margin-top: 10px;
 }
 
-/* HOBBIES */
+
 .hobby {
     margin-top: 15px;
 }
@@ -46,7 +46,7 @@ header {
     margin-bottom: 5px;
 }
 
-/* BUTTON */
+
 button {
     padding: 10px;
     background-color: #222;
@@ -60,7 +60,7 @@ button:hover {
     background-color: #444;
 }
 
-/* FOOTER */
+
 footer {
     text-align: center;
     padding: 15px;
